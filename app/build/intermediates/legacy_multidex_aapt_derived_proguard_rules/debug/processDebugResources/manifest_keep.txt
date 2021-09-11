@@ -1,0 +1,4 @@
+# Referenced at C:\Users\david\Desktop\Douglas\CSIS4175\LSApp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:17
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at C:\Users\david\Desktop\Douglas\CSIS4175\LSApp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:17
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
