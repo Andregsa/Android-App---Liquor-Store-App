@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "911726748961",
+    "firebase_url": "https://liquordb-38e71.firebaseio.com",
+    "project_id": "liquordb-38e71",
+    "storage_bucket": "liquordb-38e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911726748961:android:6bba1fe0e306eb5c",
+        "android_client_info": {
+          "package_name": "ca.douglas.lsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911726748961-bmtqu5adjd7kikh2a5nplks9a91coc13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.douglas.lsapp",
+            "certificate_hash": "946122f6d63c1a468fb2b1a0694557cba820343d"
+          }
+        },
+        {
+          "client_id": "911726748961-v2ll4864e3tebdoq335uhjief0im3kh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.douglas.lsapp",
+            "certificate_hash": "e56173063d866bce002b26b5c0b3db84f29ca672"
+          }
+        },
+        {
+          "client_id": "911726748961-ijfij5lt20mul5oj5msfcs2gerhke535.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBvF3_XoGqVSy1HrvdU_utU0uvu-ULKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911726748961-ijfij5lt20mul5oj5msfcs2gerhke535.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
